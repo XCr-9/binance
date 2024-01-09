@@ -244,6 +244,3 @@ func (s *accountServiceTestSuite) assertAPIKeyPermissionEqual(e, a *APIKeyPermis
 	r.Equal(e.EnableSpotAndMarginTrading, a.EnableSpotAndMarginTrading, "EnableSpotAndMarginTrading")
 	r.Equal(e.TradingAuthorityExpirationTime, a.TradingAuthorityExpirationTime, "TradingAuthorityExpirationTime")
 }
-
-
-// dsfasdfsdfasdfagasdgdfg
